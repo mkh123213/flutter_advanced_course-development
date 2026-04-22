@@ -8,6 +8,7 @@ import 'core/helpers/constants.dart';
 import 'core/helpers/shared_pref_helper.dart';
 import 'core/routing/app_router.dart';
 
+//
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   setupGetIt();
